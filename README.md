@@ -5,7 +5,7 @@ There are four datasets in total. It informs about sales revenue. From 2013 unti
 
 ![image](pictures/q1.JPG)
 
->Questios part
+>Five-question sample from a total of seventeen.
 
 ![image](pictures/q11.JPG)
 
@@ -16,15 +16,5 @@ There are four datasets in total. It informs about sales revenue. From 2013 unti
 ![image](pictures/q14.JPG)
 
 ![image](pictures/q15.JPG)
-
-![image](pictures/q16.JPG)
-
-![image](pictures/q17.JPG)
-
-![image](pictures/q18.JPG)
-
-![image](pictures/q19.JPG)
-
-![image](pictures/q110.JPG)
 
 👉 [jupyter notebook](https://github.com/tan-koo/Product-Selling/blob/master/jupyter/sales.ipynb) This is the ```code``` I wrote.
