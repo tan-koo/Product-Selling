@@ -1,7 +1,7 @@
 
 # Product Sales
 
-There are four datasets in total. It informs about sales revenue. From 2013 until 2015, data was collected. (The whole detail is based on a hypothetical event.)
+There are four datasets in total. It informs about sales revenue. From 2013 until 2015, data was collected. The task's objective is readily apparent under condition order. (The whole detail is based on a hypothetical event.)
 
 ![image](pictures/q1.JPG)
 
